@@ -126,8 +126,8 @@ This course focused on implementing major components of a compiler, illustrating
 ## Contact
 
 - **Developer:** Anushka Harshavadan Nevgi  
-- **GitHub:** [Your GitHub Profile Link]  
-- **Email:** anushka@example.com  
+- **LinkedIn:** [[Anushka Nevgi](https://www.linkedin.com/in/anushka-nevgi/)]  
+- **Email:** anushkanevgi2910@gmail.com  
 
 ---
 
